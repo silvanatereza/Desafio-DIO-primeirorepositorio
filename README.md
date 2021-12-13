@@ -1,3 +1,3 @@
 # Repositoio do Desafio  da DIO  sobre Git/Github
-Repositorio criado para o desafio do projeto.
+Repositorio criado para conclução do desafio referente ao boocamp da avanade 
 ---
