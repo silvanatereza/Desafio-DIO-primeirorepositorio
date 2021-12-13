@@ -9,3 +9,7 @@ Obter conhecimentos referente ao **GIT E GITHUB** e a linguagem de marcação **
 
 
 [ Sintaxe Básica Markdown ]( https://www.markdownguide.org/basic-syntax/ )
+
+
+[Git/GitHub](https://blog.betrybe.com/tecnologia/git-e-github/)
+
